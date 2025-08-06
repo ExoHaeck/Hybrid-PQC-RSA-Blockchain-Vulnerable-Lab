@@ -75,6 +75,10 @@ contract HybridKeyVault {
 ```
 ## Generacion de llaves.
 
+PD: En este laboratorio no se está utilizando un esquema de criptografía post‑cuántica real.
+La variable pqc_pub solo contiene 32 bytes aleatorios generados con os.urandom(32), a modo de simulación de una clave pública PQC.
+En un entorno real, este valor debería generarse mediante un algoritmo post‑cuántico como Kyber, Dilithium o Falcon, usando sus rutinas de generación de claves.
+
 ```python
 #!/usr/bin/env python3
 import os, base64
