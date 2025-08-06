@@ -1,3 +1,6 @@
+
+<img width="1536" height="1024" alt="ChatGPT Image 5 ago 2025, 09_13_12 p m" src="https://github.com/user-attachments/assets/a9c8231f-65c4-4f3c-b7cb-1ab4d108a6ea" />
+
 # Hybrid-PQC-RSA-Blockchain-Vulnerable-Lab
 
 Laboratorio diseñado para simular un entorno híbrido de cifrado Post-Quantum (PQC) + RSA dentro de un ecosistema blockchain, con vulnerabilidades intencionales para fines educativos y de investigación.
